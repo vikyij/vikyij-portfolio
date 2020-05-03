@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+.welcome {
+    padding-top: 50px;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: #EAEDEF;
+}
+
+.welcome-logo {
+    height: 70vmin;
+    pointer-events: none;
+  }
+.row {
+  margin: 0px;
+}
+.desc {
+     margin-top: 100px;
+}
+
+.col-md-8 {
+  padding-left: 200px;
+}
+
+/* On screens that are 992px wide or less, the background color is blue */
+@media screen and (max-width: 992px) {
+  .col-md-8 {
+    padding-left: 50px;
+  }
+
+  .welcome-logo {
+    height: 55vmin;
+    pointer-events: none;
+  }
+
+  }
+  
+  /* On screens that are 600px wide or less, the background color is olive */
+  @media screen and (max-width: 765px) {
+    .col-xs-7 {
+        width: 60%;
+        margin: 0px;
+        padding: 0px
+    }
+    .col-xs-5 {
+        width: 40%;
+        margin: 0px;
+        padding: 0px
+    }
+    .desc {
+        margin-top: 50px;
+   }
+
+   .welcome-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+
+  .welcome-h2 {
+    font-size: 25px;
+  }
+
+  }
+
+  @media screen and (max-width: 550px) {
+    .col-xs-7 {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .col-xs-5 {
+      width: 100%;     
+  }
+  .desc {
+      margin-top: 50px;
+      padding-bottom: 10px;
+      text-align: center;
+ }
+
+ .welcome-logo {
+  height: 40vmin;
+  pointer-events: none;
+
+}
+
+.welcome-h2 {
+  font-size: 15px;
+}
+
+.my-btn {
+  padding: 5px;
+  font-size: 15px;
+}
+
+}
