@@ -35,7 +35,7 @@ I'll get back to you as soon as possible</p>)
         <div className='col-md-6'>
           <p className='form-text'>Thanks for taking the time to reach out. Have a question or want to work together?</p>
 
-          <form onSubmit={handleSubmit} method="POST" action="https://formspree.io/mknqnvkq">
+          <form onSubmit={handleSubmit} method="POST" action="https://send.pageclip.co/wgG8esueLljkqqGdXuM5WbG8XDNCHX0q">
             
               <input type="text" name='name' value={inputData.name} onChange={handleChange} className="form-control" placeholder="Name" required/>
              
@@ -47,6 +47,7 @@ I'll get back to you as soon as possible</p>)
             </form>
           
             {contacts}
+            
               </div>
             </div>
 
