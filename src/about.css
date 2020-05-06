@@ -28,7 +28,7 @@ body {
 
 .about-details {
     text-align: center;
-    color: #89878A;
+    color: #646364;
 }
 
 .logo {
@@ -126,18 +126,22 @@ body {
     text-align: center;
 }
 
+.my-img img {
+    transition: transform .5s ease;
+}
+
+.my-img:hover img {
+    transform: scale(1.1);
+}
+
 .image-logo {
     height: 30vmin;
     pointer-events: none;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    transition: 1s linear;
 }
 
-.image-logo:hover {
-    height: 35vmin;
-}
 
 @media screen and (max-width: 1000px) {
     .myself {
