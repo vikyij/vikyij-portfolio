@@ -28,7 +28,7 @@ I'll get back to you as soon as possible</p>)
       <h1 className='contact-h1'><b>{title}</b></h1>
 
       <div className='row'>
-        <div className='col-md-6'>
+        <div className='col-md-6 my-img2'>
           <img src={imagesvg} className='contact-logo' alt="logo" />
         </div>
 

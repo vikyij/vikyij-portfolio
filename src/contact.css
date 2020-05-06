@@ -17,6 +17,14 @@ body {
     margin-bottom: 50px;
 }
 
+.my-img2 img {
+    transition: transform .5s ease;
+}
+
+.my-img2:hover img {
+    transform: scale(1.1);
+}
+
 .contact-logo {
     height: 50vmin;
     pointer-events: none;
