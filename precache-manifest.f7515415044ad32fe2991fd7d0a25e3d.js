@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6645b4bbfb013d338bac72af33b0d0d1",
+    "revision": "16359f6ebc30d2e1f5e83495d5906391",
     "url": "/vikyij-portfolio/index.html"
   },
   {
-    "revision": "05f6cf5dd383d5df40fb",
+    "revision": "bb4d0e7fe966b3f6dd8c",
     "url": "/vikyij-portfolio/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "f21230e0fd86b1296474",
-    "url": "/vikyij-portfolio/static/css/main.43701634.chunk.css"
+    "revision": "6e2f5069f4767d9eaa2a",
+    "url": "/vikyij-portfolio/static/css/main.25b25d3a.chunk.css"
   },
   {
-    "revision": "05f6cf5dd383d5df40fb",
+    "revision": "bb4d0e7fe966b3f6dd8c",
     "url": "/vikyij-portfolio/static/js/2.c4586522.chunk.js"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vikyij-portfolio/static/js/2.c4586522.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f21230e0fd86b1296474",
-    "url": "/vikyij-portfolio/static/js/main.86c0f9db.chunk.js"
+    "revision": "6e2f5069f4767d9eaa2a",
+    "url": "/vikyij-portfolio/static/js/main.15f571bf.chunk.js"
   },
   {
     "revision": "43c5c04ad8f14b27770d",
     "url": "/vikyij-portfolio/static/js/runtime-main.de9eb6b8.js"
-  },
-  {
-    "revision": "4bf2f124452a69cc104ae3fa7832cad0",
-    "url": "/vikyij-portfolio/static/media/s1.4bf2f124.PNG"
   },
   {
     "revision": "9de4be5034e58f6f2ab5ce448761f6a8",
@@ -50,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "58ef65f05e0bf9d42e333cda74ee60d7",
     "url": "/vikyij-portfolio/static/media/s6.58ef65f0.PNG"
+  },
+  {
+    "revision": "dc1628c34e73f475b9335ffbe1e363be",
+    "url": "/vikyij-portfolio/static/media/spc.dc1628c3.PNG"
   },
   {
     "revision": "b55278f26296e2ae4997ab63d963b7f1",

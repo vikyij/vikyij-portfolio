@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vikyij-portfolio/static/css/main.43701634.chunk.css",
-    "main.js": "/vikyij-portfolio/static/js/main.86c0f9db.chunk.js",
-    "main.js.map": "/vikyij-portfolio/static/js/main.86c0f9db.chunk.js.map",
+    "main.css": "/vikyij-portfolio/static/css/main.25b25d3a.chunk.css",
+    "main.js": "/vikyij-portfolio/static/js/main.15f571bf.chunk.js",
+    "main.js.map": "/vikyij-portfolio/static/js/main.15f571bf.chunk.js.map",
     "runtime-main.js": "/vikyij-portfolio/static/js/runtime-main.de9eb6b8.js",
     "runtime-main.js.map": "/vikyij-portfolio/static/js/runtime-main.de9eb6b8.js.map",
     "static/css/2.74189dbb.chunk.css": "/vikyij-portfolio/static/css/2.74189dbb.chunk.css",
     "static/js/2.c4586522.chunk.js": "/vikyij-portfolio/static/js/2.c4586522.chunk.js",
     "static/js/2.c4586522.chunk.js.map": "/vikyij-portfolio/static/js/2.c4586522.chunk.js.map",
     "index.html": "/vikyij-portfolio/index.html",
-    "precache-manifest.e05cb7f65e4d8095fb03f92d40a01af3.js": "/vikyij-portfolio/precache-manifest.e05cb7f65e4d8095fb03f92d40a01af3.js",
+    "precache-manifest.f7515415044ad32fe2991fd7d0a25e3d.js": "/vikyij-portfolio/precache-manifest.f7515415044ad32fe2991fd7d0a25e3d.js",
     "service-worker.js": "/vikyij-portfolio/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/vikyij-portfolio/static/css/2.74189dbb.chunk.css.map",
-    "static/css/main.43701634.chunk.css.map": "/vikyij-portfolio/static/css/main.43701634.chunk.css.map",
+    "static/css/main.25b25d3a.chunk.css.map": "/vikyij-portfolio/static/css/main.25b25d3a.chunk.css.map",
     "static/js/2.c4586522.chunk.js.LICENSE.txt": "/vikyij-portfolio/static/js/2.c4586522.chunk.js.LICENSE.txt",
-    "static/media/project.css": "/vikyij-portfolio/static/media/s6.58ef65f0.PNG",
+    "static/media/project.css": "/vikyij-portfolio/static/media/spc.dc1628c3.PNG",
     "static/media/undraw_feedback_h2ft.svg": "/vikyij-portfolio/static/media/undraw_feedback_h2ft.b55278f2.svg",
     "static/media/undraw_female_avatar_w3jk.svg": "/vikyij-portfolio/static/media/undraw_female_avatar_w3jk.252b2ca2.svg",
     "static/media/undraw_react_y7wq.svg": "/vikyij-portfolio/static/media/undraw_react_y7wq.19416363.svg"
@@ -23,7 +23,7 @@
     "static/js/runtime-main.de9eb6b8.js",
     "static/css/2.74189dbb.chunk.css",
     "static/js/2.c4586522.chunk.js",
-    "static/css/main.43701634.chunk.css",
-    "static/js/main.86c0f9db.chunk.js"
+    "static/css/main.25b25d3a.chunk.css",
+    "static/js/main.15f571bf.chunk.js"
   ]
 }
