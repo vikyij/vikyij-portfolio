@@ -11,10 +11,10 @@ const Portfolio = ({title, id}) => {
           <div className='bg-img1 container1'>
             <div className="overlay">
               <div>
-                <p className="text">MOLE GAME</p>
-                <p className="text1">JavaScript</p>
+                <p className="text">E-commerce site</p>
+                <p className="text1">React js</p>
                 <button type="button" className="btn btn-outline-info my-btn text2">
-                  <a href='https://github.com/vikyij/mole-game' target='_blank'>LEARN MORE</a></button>
+                  <a href='https://spcmakeup.netlify.app/' target='_blank'>LEARN MORE</a></button>
               </div>
             </div>
           </div>
