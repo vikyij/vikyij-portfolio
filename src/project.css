@@ -53,7 +53,7 @@ body {
 
 .bg-img2 {
     height: 250px;
-    background-image: url('images/s4.PNG') ;
+    background-image: url('images/Covid.PNG') ;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius:20px;
@@ -68,7 +68,7 @@ body {
 }
 
 .bg-img4 {
-    background-image: url('images/s2.PNG');
+    background-image: url('images/s4.PNG');
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
@@ -76,7 +76,7 @@ body {
 }
 
 .bg-img5 {
-    background-image: url('images/s5.PNG');
+    background-image: url('images/s2.PNG');
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;

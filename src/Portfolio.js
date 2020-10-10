@@ -24,10 +24,10 @@ const Portfolio = ({title, id}) => {
           <div className='bg-img2 container1'>
             <div className="overlay">
               <div>
-                <p className="text">TODO APP</p>
-                <p className="text1">React Js</p>
+                <p className="text">Covid-19 Tracker</p>
+                <p className="text1">React Js/Material-Ui</p>
                 <button type="button" className="btn btn-outline-info my-btn text2">
-                  <a href='https://github.com/vikyij/TodoApp' target='_blank'>LEARN MORE</a></button>
+                  <a href='https://covid-19demography.netlify.app/' target='_blank'>LEARN MORE</a></button>
               </div>
             </div>
           </div>
@@ -63,10 +63,10 @@ const Portfolio = ({title, id}) => {
           <div className='bg-img5 container1'>
             <div className="overlay">
               <div>
-                <p className="text">PROFEWORLD</p>
-                <p className="text1">Bootstrap</p>
+                <p className="text">TODO APP</p>
+                <p className="text1">React Js</p>
                 <button type="button" className="btn btn-outline-info my-btn text2">
-                  <a href='https://profeworld.com/' target='_blank'>LEARN MORE</a></button>
+                  <a href='https://github.com/vikyij/TodoApp' target='_blank'>LEARN MORE</a></button>
               </div>
             </div>
           </div>
