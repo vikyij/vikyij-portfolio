@@ -21,7 +21,7 @@ body {
 }
 
 .my-project {
-   margin: 30px;  
+    margin: 30px;
 }
 
 .container1 {
@@ -45,18 +45,18 @@ body {
 
 .bg-img1 {
     height: 250px;
-    background-image:  url('images/spc.PNG');
+    background-image: url('images/spc.PNG');
     background-repeat: no-repeat;
     background-size: cover;
-    border-radius:20px;
+    border-radius: 20px;
 }
 
 .bg-img2 {
     height: 250px;
-    background-image: url('images/Covid.PNG') ;
+    background-image: url('images/Covid.PNG');
     background-repeat: no-repeat;
     background-size: cover;
-    border-radius:20px;
+    border-radius: 20px;
 }
 
 .bg-img3 {
@@ -64,7 +64,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
-    border-radius:20px;
+    border-radius: 20px;
 }
 
 .bg-img4 {
@@ -72,7 +72,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
-    border-radius:20px;
+    border-radius: 20px;
 }
 
 .bg-img5 {
@@ -80,7 +80,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
-    border-radius:20px;
+    border-radius: 20px;
 }
 
 .bg-img6 {
@@ -88,7 +88,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
-    border-radius:20px;
+    border-radius: 20px;
+}
+
+.bg-img7 {
+    background-image: url('images/sunfi-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    border-radius: 20px;
 }
 
 
@@ -105,14 +113,14 @@ body {
     width: 100%;
     transition: .7s ease-in-out;
     border-radius: 20px;
-  }
+}
 
-  .container1:hover .overlay{
+.container1:hover .overlay {
     opacity: 1;
-  }
+}
 
-  .text {
-    white-space: nowrap; 
+.text {
+    white-space: nowrap;
     color: white;
     font-size: 20px;
     position: absolute;
@@ -121,10 +129,10 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-  }
+}
 
-  .text1 {
-    white-space: nowrap; 
+.text1 {
+    white-space: nowrap;
     color: #17a2b8;
     font-size: 15px;
     position: absolute;
@@ -133,23 +141,23 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-  }
+}
 
-  .text2 {
-    white-space: nowrap; 
+.text2 {
+    white-space: nowrap;
     position: absolute;
     overflow: hidden;
     top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-  }
+}
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 500px) {
     .project {
         padding: 5px;
     }
-    
+
     .project-h1 {
         margin: 20px;
         margin-bottom: 0px;
@@ -180,7 +188,7 @@ body {
     .bg-img6 {
         height: 220px;
     }
-    
+
 }
 
 @media screen and (max-width: 580px) and (min-width: 430px) {
@@ -215,11 +223,11 @@ body {
     }
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1000px) {
     .project {
         padding: 10px;
     }
-    
+
     .project-h1 {
         margin: 30px;
         margin-bottom: 50px;
@@ -227,6 +235,6 @@ body {
     }
 
     .my-project {
-        margin: 0px;  
-     }
+        margin: 0px;
+    }
 }
